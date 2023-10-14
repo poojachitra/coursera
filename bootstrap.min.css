@@ -15,4 +15,5 @@ body{
 }
 .navbar-brand{
 	float:left;
+	background-color:blue;
 }
