@@ -13,3 +13,6 @@ body{
 	border: 0;
 
 }
+.navbar-brand{
+	float:left;
+}
